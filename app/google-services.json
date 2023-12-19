@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "50137163938",
+    "project_id": "projectuas-e9667",
+    "storage_bucket": "projectuas-e9667.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50137163938:android:bf160f67b3ededec200ffb",
+        "android_client_info": {
+          "package_name": "id.ac.petra.projectuas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmz7n4vwGp23xuHLiidNTQCxDuRiteGmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
